@@ -159,4 +159,3 @@ Deploy as a cloud-based API
 
 Real-time engagement prediction
 
-Author
